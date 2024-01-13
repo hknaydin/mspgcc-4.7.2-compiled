@@ -25,4 +25,4 @@ Additional Considerations:
 
 <p align="justify"> Toolchain Setup: Proper setup of the mspgcc toolchain is crucial for successful compilation and linking of Contiki applications.  </p>
 
-Documentation: Refer to the official documentation for both mspgcc and Contiki OS for detailed instructions and troubleshooting guidance. 
+<p align="justify"> Documentation: Refer to the official documentation for both mspgcc and Contiki OS for detailed instructions and troubleshooting guidance.  </p>
