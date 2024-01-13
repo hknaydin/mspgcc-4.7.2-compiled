@@ -1,8 +1,8 @@
 Key Points:
 
-Toolchain for MSP430: mspgcc-4.7.2-compiler is a specific version of the GNU Compiler Collection (GCC) tailored for compiling code for MSP430 microcontrollers, a popular platform for embedded systems.
+<p style="text-align: justify;"> Toolchain for MSP430: mspgcc-4.7.2-compiler is a specific version of the GNU Compiler Collection (GCC) tailored for compiling code for MSP430 microcontrollers, a popular platform for embedded systems. </p>
 
-Contiki OS Compatibility: Contiki OS, a lightweight operating system designed for resource-constrained devices like sensor nodes, supports MSP430 microcontrollers and is compatible with the mspgcc-4.7.2-compiler.
+<p style="text-align: justify;"> Contiki OS Compatibility: Contiki OS, a lightweight operating system designed for resource-constrained devices like sensor nodes, supports MSP430 microcontrollers and is compatible with the mspgcc-4.7.2-compiler. </p>
 
 Development Process:
 
@@ -10,7 +10,7 @@ Compilation: When developing Contiki applications for MSP430, you use mspgcc-4.7
 
 Linking: The compiler also links necessary libraries and components from Contiki OS to create the final executable file.
 
-Cross-Compilation: This compilation process typically happens on a desktop computer (with a different architecture than the MSP430), so it's termed "cross-compilation."
+Cross-Compilation: <p style="text-align: justify;"> This compilation process typically happens on a desktop computer (with a different architecture than the MSP430), so it's termed "cross-compilation." </p>
 Specific Advantages:
 
 Optimization: mspgcc-4.7.2-compiler includes optimizations specifically for the MSP430 architecture, enhancing code efficiency and performance.
